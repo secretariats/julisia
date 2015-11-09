@@ -216,3 +216,8 @@ a:hover{
   color:#516395;
   transition:0.5s;
 }
+
+#giftModal img {
+  width:100%;
+  height:auto;
+}
