@@ -30,7 +30,6 @@ body {
 
 
 
-
 #cake {
   display: block;
   position: relative;
@@ -200,4 +199,20 @@ transform: rotate(-130deg);
 -ms-transform: rotate(-130deg);
 -webkit-transform: rotate(-130deg);
 z-index: 5;
+}
+
+#giftModal {
+  color:black;
+  text-shadow: none;
+  font-style:normal;
+}
+
+a {
+  color:#614385;
+}
+
+a:hover{
+  text-decoration: none;
+  color:#516395;
+  transition:0.5s;
 }
